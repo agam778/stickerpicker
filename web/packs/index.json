@@ -1,7 +1,8 @@
 {
   "packs": [
     "whatthehell.json",
-    "myhonestreaction.json"
+    "myhonestreaction.json",
+    "minipepe.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
