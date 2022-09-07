@@ -1,6 +1,7 @@
 {
   "packs": [
-    "whatthehell.json"
+    "whatthehell.json",
+    "myhonestreaction.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
